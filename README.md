@@ -31,7 +31,7 @@ Your users should be able to:
 ### Links
 
 
-- Live Site URL: [](https://z3shan7.github.io/LoopStudios-landing-page/)
+- Live Site URL: [link to live site](https://z3shan7.github.io/LoopStudios-landing-page/)
 
 ## My process
 
